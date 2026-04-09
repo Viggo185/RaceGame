@@ -49,22 +49,20 @@ Current lap
 Lap time
 Sector times
 Race results
-Finish Screen:
-
-
-https://github.com/user-attachments/assets/8d13580f-9c7a-458a-a0ab-200a0ade990b
-
+* ### Finish Screen:
 
 Shows the winner and best lap times after the race ends, with an option to restart.
 
-Visual Effects:
+* ### Visual Effects:
 
 Includes animated explosion effects when crashing, adding feedback and polish.
 
-Local Multiplayer:
+* ### Local Multiplayer:
 
 Two players can race on the same device using different controls (e.g., WASD and arrow keys).
 
-🎯 Goal
+* ### Goal
 
-Compete against other players, master the track, and set the fastest lap time to win the race 🏁
+Compete against other players, master the track, and set the fastest lap time to win the race 
+
+https://github.com/user-attachments/assets/8d13580f-9c7a-458a-a0ab-200a0ade990b
